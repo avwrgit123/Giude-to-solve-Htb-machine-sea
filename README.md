@@ -7,7 +7,7 @@ Summery:
 <br>
 3. Exploitation: Exploited outdated Apache HTTP and OpenSSH versions, as well as WonderCMS vulnerabilities: RCE (Remote Code Execution), XSS.
 <br>
-4. Privilege Escalation: Cracked passwords using john the ripper and hashcat, exploited misconfigurations to gain higher access.
+4. Privilege Escalation: Cracked passwords using john the ripper and hashcat, exploited misconfigurations services on the machine to gain higher access.
 <br>
 5. Security Weaknesses: Highlighted unpatched software, weak password storage, and CMS (Content Management System) file upload flaws to sensitive files and user accounts.
 <br>
