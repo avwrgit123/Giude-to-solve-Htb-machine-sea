@@ -13,3 +13,5 @@ Summery:
 <br>
 <br>
 Full Guide on Htb machine sea.pdf
+<br>
+https://github.com/avwrgit123/Guide-to-solve-Htb-machine-sea/blob/main/Htb%20machine%20sea.pdf
